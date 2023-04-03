@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorlovdanila&label=Profile%20views&color=025cda&style=flat" alt="gorlovdanila" /> </p>
 
-<h3 dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>"  About me:"
+<h3 dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>About me:</h3>
 
 <p dir="auto">I am a novice android developer.</p>
 
@@ -13,7 +13,8 @@
   
 - ⚡ I want to learn a new profession and find a job
   
-- 👨‍💻 All of my projects are available at [https://github.com/GorlovDanila?tab=repositories](https://github.com/GorlovDanila?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/GorlovDanila?tab=repositories" rel="nofollow"><img alt="Github Badge" data-canonical-src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
+<!-- - [https://github.com/GorlovDanila?tab=repositories](https://github.com/GorlovDanila?tab=repositories) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
