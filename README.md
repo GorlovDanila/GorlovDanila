@@ -14,6 +14,11 @@
 <a href="https://twitter.com/gorlovdanila" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/502/246/png-clipart-gmail-computer-icons-email-google-desktop-gmail-angle-text.png" alt="danilgorlov2003@gmail.com" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Social Networks:</h3>
+<p align="left"> 
+
+</p>
+
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -26,11 +31,21 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorlovdanila&no-bg=true&theme=algolia" alt="gorlovdanila"/></a></p>
 
-<p align="left">
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlovdanila&show_icons=true&locale=en&theme=transparent" alt="gorlovdanila"/>
+    </td>
+    <td>
+      <img padding-left: 15px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
+    </td>
+  </tr>
+</table>
+  
+<!-- <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlovdanila&show_icons=true&locale=en&theme=transparent" alt="gorlovdanila"/>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/> -->
   <img padding-left: 15px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
-</p>
+</p> -->
 <!-- <p align="right">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
 </p>   -->
