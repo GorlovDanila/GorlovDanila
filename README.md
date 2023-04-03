@@ -12,7 +12,7 @@
   
 - ⚡ I want to learn a new profession and find a job
   
-- 👨‍💻 All of my projects are available at [https://github.com/GorlovDanila?tab=repositories](https://github.com/GorlovDanila?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/GorlovDanila?tab=repositories)
 
 - 📫 Connect with me: <a href="https://t.me/danilavolkov1703" rel="nofollow"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:danilgorlov2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
