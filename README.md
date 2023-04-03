@@ -39,7 +39,7 @@
       <img src="https://camo.githubusercontent.com/ea13d8d3fb3c13f8f06d79d759467903ff96e5bcf9abffcab9ca057fc62ef60b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61622f59616e6465785f5a656e5f6c6f676f5f69636f6e2e7376672f3130323470782d59616e6465785f5a656e5f6c6f676f5f69636f6e2e7376672e706e67" width="40" height="40" alt="Zen Badge" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" style="max-width: 100%;">
     </a>
 </p>
-<g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji>
+
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
