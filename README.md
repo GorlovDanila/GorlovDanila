@@ -13,7 +13,7 @@
   
 - ⚡ I want to learn a new profession and find a job
   
-- 👨‍💻 All of my projects are available at <a href="https://github.com/GorlovDanila?tab=repositories" rel="nofollow"><img alt="Github Badge" data-canonical-src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/GorlovDanila?tab=repositories" rel="nofollow"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
 <!-- - [https://github.com/GorlovDanila?tab=repositories](https://github.com/GorlovDanila?tab=repositories) -->
 
 <h3 align="left">Connect with me:</h3>
