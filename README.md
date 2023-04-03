@@ -29,7 +29,7 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlovdanila&show_icons=true&locale=en&theme=transparent" alt="gorlovdanila"/>
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/> -->
-  <img padding-left: 5px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
+  <img padding-left: 15px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
 </p>
 <!-- <p align="right">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
