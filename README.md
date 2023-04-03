@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorlovdanila&label=Profile%20views&color=025cda&style=flat" alt="gorlovdanila" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gorlovdanila&label=Profile%20views&color=025cda&style=flat" alt="gorlovdanila" /> </p>
 
 <h3 dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>About me:</h3>
 <p dir="auto">I am a novice android developer.</p>
@@ -13,7 +13,7 @@
 - ⚡ I want to learn a new profession and find a job
   
 - 👨‍💻 All of my projects are available at [https://github.com/GorlovDanila?tab=repositories](https://github.com/GorlovDanila?tab=repositories)
-
+<hr></hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://t.me/f1llzzz" rel="nofollow"><img src="https://camo.githubusercontent.com/2297af39fb6f35f5276cc5cb622c6a7f85c1956d6148f79f767ca7ec0a68e8fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d66696c696d6f6e6f76616c657865792d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-filimonovalexey-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
