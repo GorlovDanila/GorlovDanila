@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorlovdanila&label=Profile%20views&color=025cda&style=flat" alt="gorlovdanila" /> </p>
 
-<h3 dir="auto">👨‍About me:</h3>
-<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
+<h3 dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>About me:</h3>
 <p dir="auto">I am a novice android developer.</p>
 
 - 🔭 I’m currently working on [WeatherApp](https://github.com/GorlovDanila/WeatherApp)
