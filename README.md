@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorlovdanila&no-bg=true&theme=algolia" alt="gorlovdanila"/></a> </p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlovdanila&show_icons=true&locale=en&theme=transparent" alt="gorlovdanila"/></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlovdanila&show_icons=true&locale=en&theme=transparent" alt="gorlovdanila"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/></p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/></p> -->
 
