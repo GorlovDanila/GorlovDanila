@@ -5,7 +5,6 @@
 
 <h3 dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>About me:</h3>
 <p dir="auto">I am a novice android developer.</p>
-<p align="left">
 - 🔭 I’m currently working on [WeatherApp](https://github.com/GorlovDanila/WeatherApp)
 
 - 🌱 I’m currently learning **Dagger2**
@@ -16,8 +15,6 @@
 
 - 📫 Connect with me: <a href="https://t.me/danilavolkov1703" rel="nofollow"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:danilgorlov2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
- <p align="right">5555555555</p>
 <hr></hr>
 <h3 align="left">🤝Social Networks:</h3>
 <p align="left"> 
