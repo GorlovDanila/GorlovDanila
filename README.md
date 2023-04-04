@@ -5,7 +5,28 @@
 
 <h3 dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>About me:</h3>
 <p dir="auto">I am a novice android developer.</p>
-- 🔭 I’m currently working on [WeatherApp](https://github.com/GorlovDanila/WeatherApp)
+<!-- <table style="border: none; cellspacing="0" cellpadding="0";">
+  <tr>
+    <td>
+      - 🔭 I’m currently working on <a href="https://github.com/GorlovDanila/WeatherApp">WeatherApp</a>
+<!-- [WeatherApp](https://github.com/GorlovDanila/WeatherApp) -->
+
+<!-- - 🌱 I’m currently learning **Dagger2**
+  
+- ⚡ I want to learn a new profession and find a job
+  
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/GorlovDanila?tab=repositories)
+
+- 📫 Connect with me: <a href="https://t.me/danilavolkov1703" rel="nofollow"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:danilgorlov2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+    </td>
+    <td>
+      <img padding-left: 15px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
+    </td>
+  </tr>
+</table> --> -->
+- 🔭 I’m currently working on <a href="https://github.com/GorlovDanila/WeatherApp">WeatherApp</a>
+<!-- [WeatherApp](https://github.com/GorlovDanila/WeatherApp) -->
 
 - 🌱 I’m currently learning **Dagger2**
   
@@ -43,6 +64,7 @@
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorlovdanila&show_icons=true&locale=en&theme=transparent" alt="gorlovdanila"/>
+<!--       src="https://github-readme-stats-sigma-five.vercel.app/api?username=gorlovdanila&show_icons=true&locale=en&theme=transparent" -->
     </td>
     <td>
       <img padding-left: 15px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
