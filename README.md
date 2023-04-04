@@ -24,7 +24,7 @@
       <img padding-left: 15px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorlovdanila&theme=transparent" alt="gorlovdanila"/>
     </td>
   </tr>
-</table> --> -->
+</table> -->
 - 🔭 I’m currently working on <a href="https://github.com/GorlovDanila/WeatherApp">WeatherApp</a>
 <!-- [WeatherApp](https://github.com/GorlovDanila/WeatherApp) -->
 
