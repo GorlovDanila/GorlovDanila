@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/GorlovDanila/WeatherApp">WeatherApp</a>
 <!-- [WeatherApp](https://github.com/GorlovDanila/WeatherApp) -->
 
-- 🌱 I’m currently learning **Dagger2**
+- 🌱 I’m currently learning **Compose**
   
 - ⚡ I want to learn a new profession and find a job
   
