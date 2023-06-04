@@ -58,7 +58,7 @@
 <hr></hr>
 <!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorlovdanila&show_icons=true&locale=en&layout=compact" alt="gorlovdanila"/></p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorlovdanila&no-bg=true&theme=algolia" alt="gorlovdanila"/></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorlovdanila&title=PullRequest,Commits,Repositories,Stars,Followers,Issues&no-bg=true&theme=algolia" alt="gorlovdanila"/></a></p>
 <hr></hr>
 <table>
   <tr>
