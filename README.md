@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">Android Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gorlovdanila&label=Profile%20views&color=025cda&style=flat" alt="gorlovdanila" /> </p>
 
 <h3 dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>About me:</h3>
-<p dir="auto">I am a novice android developer.</p>
+<p dir="auto">I am android developer.</p>
 <!-- <table style="border: none; cellspacing="0" cellpadding="0";">
   <tr>
     <td>
@@ -13,11 +13,9 @@
 
 <!-- - 🌱 I’m currently learning **Compose**
   
-- ⚡ I want to learn a new profession and find a job
-  
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/GorlovDanila?tab=repositories)
 
-- 📫 Connect with me: <a href="https://t.me/danilavolkov1703" rel="nofollow"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+- 📫 Connect with me: <a href="https://t.me/degorlov" rel="nofollow"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:danilgorlov2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
     </td>
     <td>
@@ -25,21 +23,18 @@
     </td>
   </tr>
 </table> -->
-- 🔭 I’m currently working on <a href="https://github.com/GorlovDanila/WeatherApp">WeatherApp</a>
 <!-- [WeatherApp](https://github.com/GorlovDanila/WeatherApp) -->
 
 - 🌱 I’m currently learning **Compose**
   
-- ⚡ I want to learn a new profession and find a job
-  
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/GorlovDanila?tab=repositories)
 
-- 📫 Connect with me: <a href="https://t.me/danilavolkov1703" rel="nofollow"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+- 📫 Connect with me: <a href="https://t.me/degorlov" rel="nofollow"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="mailto:danilgorlov2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <hr></hr>
 <h3 align="left">🤝Social Networks:</h3>
 <p align="left"> 
-    <a href="https://t.me/danilavolkov1703">
+    <a href="https://t.me/degorlov">
       <img src="https://camo.githubusercontent.com/23769702d6ec4634238509960554e0b7f2dc347614e708cbd68b0715fb75affb/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="40" height="40" alt="Telegram Badge" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
     </a>
     <a href="https://vk.com/danilagorlov" rel="nofollow">
